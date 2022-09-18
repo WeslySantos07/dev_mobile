@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--quest 01-->
+    <string name="app_name">App</string>
+    <string name="toggle_turn_on">On</string>
+    <string name="toggle_turn_off">Off</string>
+    <string name="btn_display">State</string>
+
+    <!--quest 02-->
+    <string name="button">State</string>
+    <string name="edittext">Text</string>
+
+    <!--quest 04-->
+    <string name="ac_button">State</string>
+
+    <!--quest 05-->
+    <string-array name="numbers">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+    <string name="spinner_button">State</string>
+
+    <!--quest 06-->
+    <string name="radio_one">On</string>
+    <string name="radio_off">Off</string>
+    <string name="rb_button">State</string>
+
+    <!--quest 10-->
+    <string name="long_press">Long Press</string>
+
+
+    <string name="select">Select Item</string>
+
+
+</resources>
